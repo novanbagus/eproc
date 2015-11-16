@@ -1,1 +1,4 @@
-<? echo njajal.php?>
+<?php
+echo njajal;
+echo hello world;
+?>
